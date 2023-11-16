@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sheki Komp\\source\\repos\\VieBagExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4082BE14-29AF-4496-848D-27ACFFAD9943}|VieBagExample\\VieBagExample.csproj|c:\\users\\sheki komp\\source\\repos\\viebagexample\\viebagexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4082BE14-29AF-4496-848D-27ACFFAD9943}|VieBagExample\\VieBagExample.csproj|solutionrelative:viebagexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4082BE14-29AF-4496-848D-27ACFFAD9943}|VieBagExample\\VieBagExample.csproj|c:\\users\\sheki komp\\source\\repos\\viebagexample\\viebagexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4082BE14-29AF-4496-848D-27ACFFAD9943}|VieBagExample\\VieBagExample.csproj|solutionrelative:viebagexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4082BE14-29AF-4496-848D-27ACFFAD9943}|VieBagExample\\VieBagExample.csproj|c:\\users\\sheki komp\\source\\repos\\viebagexample\\viebagexample\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4082BE14-29AF-4496-848D-27ACFFAD9943}|VieBagExample\\VieBagExample.csproj|solutionrelative:viebagexample\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4082BE14-29AF-4496-848D-27ACFFAD9943}|VieBagExample\\VieBagExample.csproj|c:\\users\\sheki komp\\source\\repos\\viebagexample\\viebagexample\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4082BE14-29AF-4496-848D-27ACFFAD9943}|VieBagExample\\VieBagExample.csproj|solutionrelative:viebagexample\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4082BE14-29AF-4496-848D-27ACFFAD9943}|VieBagExample\\VieBagExample.csproj|c:\\users\\sheki komp\\source\\repos\\viebagexample\\viebagexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4082BE14-29AF-4496-848D-27ACFFAD9943}|VieBagExample\\VieBagExample.csproj|solutionrelative:viebagexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4082BE14-29AF-4496-848D-27ACFFAD9943}|VieBagExample\\VieBagExample.csproj|c:\\users\\sheki komp\\source\\repos\\viebagexample\\viebagexample\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4082BE14-29AF-4496-848D-27ACFFAD9943}|VieBagExample\\VieBagExample.csproj|solutionrelative:viebagexample\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4082BE14-29AF-4496-848D-27ACFFAD9943}|VieBagExample\\VieBagExample.csproj|c:\\users\\sheki komp\\source\\repos\\viebagexample\\viebagexample\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4082BE14-29AF-4496-848D-27ACFFAD9943}|VieBagExample\\VieBagExample.csproj|solutionrelative:viebagexample\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4082BE14-29AF-4496-848D-27ACFFAD9943}|VieBagExample\\VieBagExample.csproj|c:\\users\\sheki komp\\source\\repos\\viebagexample\\viebagexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4082BE14-29AF-4496-848D-27ACFFAD9943}|VieBagExample\\VieBagExample.csproj|solutionrelative:viebagexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sheki Komp\\source\\repos\\VieBagExample\\VieBagExample\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "VieBagExample\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Sheki Komp\\source\\repos\\VieBagExample\\VieBagExample\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "VieBagExample\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-16T00:00:58.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sheki Komp\\source\\repos\\VieBagExample\\VieBagExample\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "VieBagExample\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Sheki Komp\\source\\repos\\VieBagExample\\VieBagExample\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "VieBagExample\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-15T23:15:57.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki Komp\\source\\repos\\VieBagExample\\VieBagExample\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "VieBagExample\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Sheki Komp\\source\\repos\\VieBagExample\\VieBagExample\\Models\\Student.cs",
+              "RelativeToolTip": "VieBagExample\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-15T22:36:05.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sheki Komp\\source\\repos\\VieBagExample\\VieBagExample\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "VieBagExample\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Sheki Komp\\source\\repos\\VieBagExample\\VieBagExample\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "VieBagExample\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-15T22:30:59.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sheki Komp\\source\\repos\\VieBagExample\\VieBagExample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "VieBagExample\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Sheki Komp\\source\\repos\\VieBagExample\\VieBagExample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "VieBagExample\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-15T22:28:23.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sheki Komp\\source\\repos\\VieBagExample\\VieBagExample\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "VieBagExample\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sheki Komp\\source\\repos\\VieBagExample\\VieBagExample\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "VieBagExample\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-15T22:26:11.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki Komp\\source\\repos\\VieBagExample\\VieBagExample\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "VieBagExample\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Sheki Komp\\source\\repos\\VieBagExample\\VieBagExample\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "VieBagExample\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-15T22:24:37.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki Komp\\source\\repos\\VieBagExample\\VieBagExample\\Program.cs",
+              "RelativeDocumentMoniker": "VieBagExample\\Program.cs",
+              "ToolTip": "C:\\Users\\Sheki Komp\\source\\repos\\VieBagExample\\VieBagExample\\Program.cs",
+              "RelativeToolTip": "VieBagExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-15T22:19:51.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
